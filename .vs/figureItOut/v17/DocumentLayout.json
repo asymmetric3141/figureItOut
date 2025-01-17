@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{52EF59AC-F20B-455F-B567-61994599DE15}|figureItOut.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{52EF59AC-F20B-455F-B567-61994599DE15}|figureItOut.csproj|c:\\users\\stone\\source\\repos\\figureitout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EF59AC-F20B-455F-B567-61994599DE15}|figureItOut.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52EF59AC-F20B-455F-B567-61994599DE15}|figureItOut.csproj|C:\\Users\\Stone\\source\\repos\\figureItOut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{52EF59AC-F20B-455F-B567-61994599DE15}|figureItOut.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,27 +38,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Stone\\source\\repos\\figureItOut\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Stone\\source\\repos\\figureItOut\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:42:46.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Stone\\source\\repos\\figureItOut\\README.md",
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\Stone\\source\\repos\\figureItOut\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-01-17T08:01:00.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Stone\\source\\repos\\figureItOut\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\STONE\\source\\repos\\figureItOut\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Stone\\source\\repos\\figureItOut\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T07:36:48.78Z"
+              "WhenOpened": "2025-01-17T07:36:48.78Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

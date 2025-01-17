@@ -14,3 +14,4 @@ C:\Users\STONE\source\repos\figureItOut\obj\Debug\net8.0-windows\refint\figureIt
 C:\Users\STONE\source\repos\figureItOut\obj\Debug\net8.0-windows\figureItOut.pdb
 C:\Users\STONE\source\repos\figureItOut\obj\Debug\net8.0-windows\figureItOut.genruntimeconfig.cache
 C:\Users\STONE\source\repos\figureItOut\obj\Debug\net8.0-windows\ref\figureItOut.dll
+C:\Users\Stone\source\repos\figureItOut\obj\Debug\net8.0-windows\figureItOut.sourcelink.json
