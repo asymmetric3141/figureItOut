@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("figureItOut")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbf3dee02cb93e7a51da30b0e3218550248c9030")]
 [assembly: System.Reflection.AssemblyProductAttribute("figureItOut")]
 [assembly: System.Reflection.AssemblyTitleAttribute("figureItOut")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
